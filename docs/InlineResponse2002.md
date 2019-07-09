@@ -1,0 +1,14 @@
+
+# ProcessMakerSDK.Model.InlineResponse2002
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Data** | [**List&lt;Media&gt;**](Media.md) | Display a listing of the resource. | [optional] 
+**Meta** | [**Metadata**](Metadata.md) | Display a listing of the resource. | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models)
+[[Back to API list]](../README.md#documentation-for-api-endpoints)
+[[Back to README]](../README.md)
+
